@@ -20,7 +20,7 @@ Runtime Metrics through JMX
 
 Micro-Services design for scale
 
-When to add new node to cluster
+#When to add new node to cluster
 Measure the CPU utilization by increasing the number of threads one by one and stop when the CPU utilization reaches close to 90-100%
 
 
