@@ -1,4 +1,4 @@
-# moonfrog-halfbyte
+# Scale for User Activity/Events and Push Notifications
 
 From mobile applications that generate streams of event/location information to computerized manufacturing machines that send out vast amounts of data to big data applications mining real-time logs to generate business metrics & run the personalized push notifications
 
