@@ -14,6 +14,7 @@ personalized recommended notifications
 BlockingQueues, Producers, Consumers
 
 Shutdown hooks for BlockingQueue and drain the queue to consume all the messages before stopping the threads
+
 BulkNotifications, Scheduled Notification
 
 Runtime Metrics through JMX
